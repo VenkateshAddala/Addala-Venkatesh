@@ -12,7 +12,7 @@ title                    : "Venky's Homepage"
 title_separator          : "-"
 name                     : &name "Venkatesh Addala"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://venkateshaddala.github.io/Addala-Venkatesh/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Venkatesh Addala"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "Masters Student in Computer Science | Tech Enthusiast"
+  location         : "Orlando, USA"
+  employer         : "University of Central Florida"
+  URI              : "https://www.ucf.edu/"
   email            : "none@example.org" 
 
   # Academic websites
